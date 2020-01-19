@@ -1,7 +1,7 @@
 discord.py
 ==========
 
-**This is a fork of `1.0.0a <https://github.com/Rapptz/discord.py/tree/184c4302c7fe17a31893f0accf197c975200d233/discord>`_ with implemented bugfixes from 1.2.5 to fix KeyError: 'animated' issues.** Only use this if you're too lazy to upgrade your bot for later versions.
+**This is a fork of 1.0.0a https://github.com/Rapptz/discord.py/tree/184c4302c7fe17a31893f0accf197c975200d233/discord with implemented bugfixes from 1.2.5 to fix KeyError: 'animated' issues.** Only use this if you're too lazy to upgrade your bot for later versions.
 
 .. image:: https://img.shields.io/pypi/v/discord.py.svg
    :target: https://pypi.python.org/pypi/discord.py
